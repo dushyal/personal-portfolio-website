@@ -594,6 +594,12 @@ section {
         transition: 0.3s ease;
     }
 
+    .main {
+
+        background-image: url(Image/bg1.jpg);
+
+    }
+
     .menu-btn {
         position: absolute;
         background-image: url(Image/menu.png);
